@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1753001426 source:c:\myraylibprojects\maze_runner\maze.c
+	"raylib.h"
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1752333633 c:\raylib\raylib\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1754485670 source:c:\myraylibprojects\maze_runner\mazerun.c
+	"raylib.h"
+	"raymath.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1753014341 source:c:\myraylibprojects\maze_runner\mazerunner.c
+	"raylib.h"
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1752333633 c:\raylib\raylib\include\raymath.h
+	<math.h>
+
